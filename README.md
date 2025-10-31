@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Thu Trang</h1>
 <img alt="GIF" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400px" height="270" />
-<h3 align="center">A Computer Science final-year student at UIT</h3>
 
 - 🏫 About my university [VNUHCM - University of Information Technology](https://www.uit.edu.vn/)
 
