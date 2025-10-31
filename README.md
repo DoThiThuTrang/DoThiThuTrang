@@ -20,7 +20,7 @@
   <a href="mailto:dothithutrang080902@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png">
   </a>
-  <a href="https://www.linkedin.com/in/dtthutrang/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/dtttrang080902/" alt="Linkedin">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png">
   </a>
 </p>
